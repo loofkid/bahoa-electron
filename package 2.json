@@ -50,7 +50,6 @@
     "vitest": "0.3.6"
   },
   "dependencies": {
-    "@typescript-eslint/parser": "^5.33.0",
     "electron-updater": "4.6.5",
     "socket.io-client": "^4.5.1",
     "svelte-feather-icons": "^4.0.0"
